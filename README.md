@@ -45,11 +45,15 @@ Oyun oynanırken arka planda kayan billboard panolarına reklam verilecek.
 
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 340 puanlık backlog bulunmaktadır. 3 sprint’e bölündüğünde ilk sprint’in en az 100 puan ile başlaması gerektiğine karar verilmiştir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır:
+- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır: ![Ekran görüntüsü 2023-06-18 204615](https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/51cdece5-47fc-430e-be03-4fbc3b63b4dc)
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board screenshotları: ![Ekran görüntüsü 2023-06-18 222805](https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/e51afc80-b7bd-484f-924f-bc1f3d425ca1)
 
-- **Ürün Durumu**: Video :
+- **Ürün Durumu**: Video ve ekran görüntüsü :
+![Ekran görüntüsü 2023-06-18 223029](https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/cbfe016f-b636-404b-b0a8-57b097432b1d)
+https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/485a85f6-240a-4db1-9fa3-a1efe62ffe30
+https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/42662a19-e366-4054-9208-5b1225569324
+https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/688af9cf-15d8-46bd-a3df-de8fab8af55a
 
 - **Sprint Review**: 
 Alınan kararlar: Oyunun hikayesi ve dinamiği belirlenmiş; ana karakter tasarımı yapılmış, kullanılacak assetler seçilmiş ve birkaç harita yapılmıştır.
