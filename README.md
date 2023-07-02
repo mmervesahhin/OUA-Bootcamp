@@ -6,10 +6,10 @@ Takım Unity 92
 
 ## Takım Elemanları
 - Zehra Bengisu Doğan: Scrum Master
-- Merve Şahin: Product Owner
--  Erdem Sönmez: Developer
--  Ali Varol: Developer
--  Yunus Emre Süsan: Developer
+- Erdem Sönmez: Product Owner
+- Merve Şahin: Developer
+- Ali Varol: Developer
+- Yunus Emre Süsan: Developer
 
 ## Ürün İsmi
 --An Agent Story--
@@ -65,5 +65,63 @@ Alınan kararlar: Oyunun hikayesi ve dinamiği belirlenmiş; ana karakter tasar�
 - **Sprint Notları:**
   - Karakte tasarımı konusunda zorlandık. 3 kez karakter değiştirdik. En sonunda 2D bir animasyon asseti üzerine boyama yaparak kendi karakterimizi oluşturduk.
   - Bir dahaki Sprint'lerde bu tarz zaman kayıpları yaşamamak için daha iyi bir planlama yapacağız.
+
+---
+
+## Product Backlog URL
+
+[Unity Team 92 Miro Backlog Board](https://miro.com/app/board/uXjVM9t-6zA=/?share_link_id=817991501858)
+
+---
+
+# Sprint 2
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+  
+-  **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Readme'de tarafımızdan 
+   paylaşılmaktadır:
+
+    print2_Toplantılar.docx](https://github.com/mmervesahhin/OUA-Bootcamp/files/11931393/sprint2_Toplantilar.docx)
+
+
+-  **Sprint board update**: Sprint board screenshotları:
+  ![Ekran görüntüsü 2023-07-02 230613](https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/4dbba121-a978-404f-b8ae-a1cbad649106)
+
+
+- **Ürün Durumu**:
+
+  https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/bb667a8a-49a0-4d8f-8502-61c13961fa75
+  https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/e3416fc6-3f9f-4546-aa29-9efbac9f2d7c
+  ![Ekran görüntüsü 2023-07-02 233707](https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/4965e185-4ae9-4aa9-baf8-cbe93d82a7fb)
+
+
+- **Sprint Review**:
+  Alınan kararlar: Düşman karakterler kodlanmış, ekstra animasyonlar tamamlanmış, ses assetleri eklenmiş, lab haritası değiştirilmiş, her yöne ateş etme 
+  mekaniğinden vazgeçilmiş, turret eklenmiştir. Aktif olamadığından product owner kendisinin de fikri alınarak değiştirilmiş, yeni product owner Erdem Sönmez 
+  olarak atanmıştır.
+
+  Sprint Review katılımcıları: Zehra Bengisu Doğan, Erdem Sönmez
+
+- **Sprint Retrospective:**
+   - Takım üyelerinin zamanı daha iyi yönetmesi ve gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
+
+- **Sprint Notları:**
+   - Bayram sebebiyle bu sprint sırasında üyelerin aktif olamadığı gözlenmiştir.
+   - Bu açığı kapatmak için 3.sprintte daha sıkı çalışmalıyız.
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
