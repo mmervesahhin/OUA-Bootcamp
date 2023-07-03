@@ -92,6 +92,8 @@ Alınan kararlar: Oyunun hikayesi ve dinamiği belirlenmiş; ana karakter tasar�
   https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/bb667a8a-49a0-4d8f-8502-61c13961fa75
   https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/e3416fc6-3f9f-4546-aa29-9efbac9f2d7c
   ![Ekran görüntüsü 2023-07-02 233707](https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/4965e185-4ae9-4aa9-baf8-cbe93d82a7fb)
+  ![image](https://github.com/mmervesahhin/OUA-Bootcamp/assets/108541504/b4d5fc26-6d26-43aa-9b61-ad168c6c867c)
+
 
 
 - **Sprint Review**:
