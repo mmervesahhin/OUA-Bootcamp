@@ -76,6 +76,7 @@ Alınan kararlar: Oyunun hikayesi ve dinamiği belirlenmiş; ana karakter tasar�
 
 # Sprint 2
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. İlk sprint 100 puan ile başlamıştır. 2.ve 3.sprintlerin eşit puana sahip olması gerektiği düşünülmüştür. Bu sebeple 2.sprint 120 puandır.
   
 -  **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Readme'de tarafımızdan 
    paylaşılmaktadır:
